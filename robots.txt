@@ -1,6 +1,6 @@
 jksdfsdf
 <<<<<<< HEAD
-# Thisdfsdfs file can be used to affect how search engines and other web site crawlers see your site.
+# Thisdffffsdfs file can be used to affect how search engines and other web site crawlers see your site.
 =======
 # This figgfle can be used to affect how search engines and other web site crawlers see your site.
 >>>>>>> 388c53d509a9262711cc23a98e7eae798f67a449
