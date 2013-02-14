@@ -1,15 +1,1 @@
-jksdfsdf
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Thisdffffsdfs file can be used to affect how search engines and other web site crawlers see your site.
-=======
-=======
-<<<<<<< HEAD
-# Thddddisdfsdfs file can be used to affect how search engines and other web site crawlers see your site.
-=======
->>>>>>> de18786f8dd013288cc9144c007ec97461860a2d
-# This figgfle can be used to affect how search engines and other web site crawlers see your site.
->>>>>>> 388c53d509a9262711cc23a98e7eae798f67a449
-# For more information, please see http://www.w3.org/TR/html4/appendix/notes.html#h-B.4.1.1
-# WebMatrix 3.0
-
+ewwrreer
